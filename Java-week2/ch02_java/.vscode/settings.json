@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "Top10Movies/src",
+        "Top10/src",
+        "BigBuildings/src"
+    ]
+}
